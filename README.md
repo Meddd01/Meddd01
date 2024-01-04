@@ -40,5 +40,5 @@ Hello World, My name is Mohammed. I am currently 17 years old and studying in a 
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, programme, app-creating, machine learning. And all the while.
