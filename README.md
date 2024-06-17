@@ -2,7 +2,7 @@
 
 **Developer**
 
-Hello World, My name is Mohammed. I am currently 18 years old and studying in a high school. I worked on many projects with my friends, especially on hackathons, for example, NASA's space apps hackathon, scoring the Global Nominee title, and couldn't win more because of some issues. Also, I'm passionate about being a good developer shortly. And learning new frameworks.
+Hello World, My name is Mohammed. I am currently 18 years old and studying in a high school. I worked on many projects with my friends, especially on hackathons, for example, NASA's space apps hackathon, scoring the Global Nominee title. Also, I'm passionate about being a good developer shortly. And learning new frameworks.
 
 <div>
   
