@@ -2,7 +2,7 @@
 
 Developer | Innovator | Dreamer
 
-Hello, World! I'm Mohammed, a 19-year-old developer and university student passionate about crafting impactful projects and learning cutting-edge technologies. My journey has been enriched by collaborations in hackathons, like NASA's Space Apps, where my team proudly earned the Global Nominee title. I strive to continually grow, explore new frameworks, and evolve into a well-rounded developer. 🚀
+Hello, World! I'm Mohammed, a 19-year-old developer and university student passionate about crafting impactful projects and learning cutting-edge technologies. My journey has been enriched by collaborations in hackathons, like NASA's Space Apps, where my team proudly earned the Global Nominee title. I strive to continually grow, explore new frameworks, and become a well-rounded developer. 🚀
 
 <div>
   
@@ -27,7 +27,7 @@ Hello, World! I'm Mohammed, a 19-year-old developer and university student passi
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Meddd01&show_icons=true&theme=gruvbox" alt="GitHub stats" /> <br /> <img src="https://streak-stats.demolab.com?user=Meddd01&theme=gruvbox&border_radius=4.5" alt="GitHub streak" /> </div>
 
-##👨‍💻 My Coding Journey
+👨‍💻 My Coding Journey
 
-My coding journey began with curiosity and a passion for discovery. From creating simple projects to participating in hackathons, I've embraced challenges and grown through collaboration and innovation. Whether it's building components with React, styling with Tailwind CSS, or diving into Python scripts, every line of code brings me closer to my goal of becoming a skilled and impactful developer.
+My coding journey began with curiosity and a passion for discovery. From creating simple projects to participating in hackathons, I've embraced challenges and grown through collaboration and innovation. Whether building components with React, styling with Tailwind CSS, or diving into Python scripts, every line of code brings me closer to becoming a skilled and impactful developer.
 
