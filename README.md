@@ -1,6 +1,6 @@
 **💻 Meddd101**
 
-Developer | Innovator | Dreamer
+Developer | Innovator | DJ
 
 Hello, World! I'm Mohammed, a 19-year-old developer and university student passionate about crafting impactful projects and learning cutting-edge technologies. My journey has been enriched by collaborations in hackathons, like NASA's Space Apps, where my team proudly earned the Global Nominee title. I strive to continually grow, explore new frameworks, and become a well-rounded developer. 🚀
 
