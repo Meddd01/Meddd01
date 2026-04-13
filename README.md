@@ -1,7 +1,7 @@
 Hi there! 👋
 I’m Mohammed, a cybersecurity enthusiast, tech builder, and DJ based in Morocco.
 
-I love creating tools, applications, and scripts that solve real problems, from networking utilities to full-stack apps. Whether it’s in Python, JavaScript, or C++, I enjoy turning ideas into functional, efficient, and secure solutions.
+I love creating tools, applications, and scripts that solve real problems, from networking utilities to full-stack apps. Whether it’s in Python, Typescript, or C++, I enjoy turning ideas into functional, efficient, and secure solutions.
 
 Outside of code, you’ll find me DJing, at hackathons, exploring OSINT techniques, or building side projects just for fun. I also enjoy sharing tech insights, startup ideas, and tips with the community.
 
